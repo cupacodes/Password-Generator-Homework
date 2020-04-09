@@ -1,4 +1,4 @@
-Homework 3- Password Generator
+This is my Password Generator homework.
 
 For this project, I used vanilla Javascript to create a random password generator that functions by the click of a button from the user's screen.
 
